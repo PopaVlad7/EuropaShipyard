@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item name="Imperial Aquila Black" identifier="imperialaquilablack" maxstacksize="4" category="Decorative" pickdistance="200" scale="0.5" description="Description" tags="mediumitem" isshootable="True" Indestructible="True" AllowRotatingInEditor="True" CanFlipX="False" CanFlipY="False">
+    <Body width="55" height="150" density="10" />
+    <Sprite texture="%ModDir%/textures/AquillaBlackTransparent.png" depth="0.845" sourcerect="0,0,150,55" origin="0.5,0.5" />
+  </Item>
+  <Item name="Imperial Aquila Gold" identifier="imperialaquilagold" maxstacksize="4" category="Decorative" pickdistance="200" scale="0.5" description="Description" tags="mediumitem" isshootable="True" Indestructible="True" AllowRotatingInEditor="True" CanFlipX="False" CanFlipY="False">
+    <Body width="150" height="55" density="10" />
+    <Sprite texture="%ModDir%/textures/AquillaGoldenTransparent.png" depth="0.845" sourcerect="0,0,150,55" origin="0.5,0.5" />
+  </Item>
+  <Item name="Adeptus Mechanicus Logo" identifier="adeptusmechanicuslogo" maxstacksize="4" category="Decorative" pickdistance="200" scale="0.5" description="Description" tags="mediumitem" isshootable="True" Indestructible="True" AllowRotatingInEditor="True" CanFlipX="False" CanFlipY="False">
+    <Body width="150" height="150" density="10" />
+    <Sprite texture="%ModDir%/textures/AdeptusMechanicusTransparent.png" depth="0.845" sourcerect="0,0,150,150" origin="0.5,0.5" />
+  </Item>
+  <Item name="Banner" identifier="banner" maxstacksize="4" category="Decorative" pickdistance="200" scale="0.5" description="Description" tags="mediumitem" isshootable="True" Indestructible="True" AllowRotatingInEditor="True" CanFlipX="False" CanFlipY="False">
+    <Body width="150" height="150" density="10" />
+    <Sprite texture="%ModDir%/textures/Banner.png" depth="0.845" sourcerect="0,0,150,150" origin="0.5,0.5" />
+  </Item>
+</Items>
