@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="EuropaShipyards" modversion="1.0.44" corepackage="False" gameversion="1.7.7.0">
+<contentpackage name="EuropaShipyards" modversion="1.0.45" corepackage="False" gameversion="1.7.7.0">
   <Submarine file="%ModDir%/EuropaShipyards.sub" />
   <Submarine file="%ModDir%/The Boundless Veil.sub" />
   <Item file="%ModDir%/ExtraDecorations.xml" />
