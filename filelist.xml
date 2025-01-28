@@ -9,4 +9,5 @@
   <Submarine file="%ModDir%/Project 5321.sub" />
   <Submarine file="%ModDir%/Project 5321 II.sub" />
   <Submarine file="%ModDir%/Project 5321 III.sub" />
+  <Structure file="%ModDir%/WallDecoration.xml" />
 </contentpackage>

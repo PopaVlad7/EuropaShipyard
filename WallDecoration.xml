@@ -1,0 +1,43 @@
+﻿<prefabs>
+<!-- NEW WALLS START -->
+<Opbg name="Wall1" identifier="Wall1" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall1.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall2" identifier="Wall2" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall2.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall3" identifier="Wall3" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall3.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall4" identifier="Wall4" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall4.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall5" identifier="Wall5" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall5.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall6" identifier="Wall6" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall6.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall7" identifier="Wall7" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall7.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall8" identifier="Wall8" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall8.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall9" identifier="Wall9" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall9.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall10" identifier="Wall10" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Wall10.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+</prefabs>
