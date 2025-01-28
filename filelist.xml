@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="EuropaShipyards" modversion="1.0.41" corepackage="False" gameversion="1.7.7.0">
+<contentpackage name="EuropaShipyards" modversion="1.0.50" corepackage="False" gameversion="1.7.7.0">
   <Submarine file="%ModDir%/EuropaShipyards.sub" />
-  <Submarine file="%ModDir%/The Boundless Veil.sub" />
   <Item file="%ModDir%/ExtraDecorations.xml" />
   <Item file="%ModDir%/SoundItems.xml" />
   <Submarine file="%ModDir%/Toolbox.sub" />
   <Submarine file="%ModDir%/Project 5321 TestingAttention.sub" />
-  <Submarine file="%ModDir%/Project 5321.sub" />
   <Submarine file="%ModDir%/Project 5321 II.sub" />
+  <Submarine file="%ModDir%/Project 5321.sub" />
+  <Submarine file="%ModDir%/The Boundless Veil.sub" />
   <Submarine file="%ModDir%/Project 5321 III.sub" />
   <Structure file="%ModDir%/WallDecoration.xml" />
 </contentpackage>
