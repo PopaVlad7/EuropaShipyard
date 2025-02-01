@@ -40,4 +40,7 @@
 <sprite texture="%ModDir%/textures/Wall10.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
 </Opbg>
 
+<Opbg name="Alina" identifier="Alina" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+<sprite texture="%ModDir%/textures/Alina.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
 </prefabs>
