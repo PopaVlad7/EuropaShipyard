@@ -40,7 +40,72 @@
 <sprite texture="%ModDir%/textures/Wall10.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
 </Opbg>
 
+<Opbg name="Wall11" identifier="Wall11" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall11.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall12" identifier="Wall12" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall12.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall13" identifier="Wall13" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall13.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall14" identifier="Wall14" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall14.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall15" identifier="Wall15" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall15.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall16" identifier="Wall16" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall16.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall17" identifier="Wall17" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall17.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall18" identifier="Wall18" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall18.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall19" identifier="Wall19" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall19.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall20" identifier="Wall20" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall20.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall21" identifier="Wall21" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall21.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall22" identifier="Wall22" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall22.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall23" identifier="Wall23" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall23.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall24" identifier="Wall24" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall24.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall25" identifier="Wall25" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall25.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
+<Opbg name="Wall26" identifier="Wall26" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall26.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
 <Opbg name="Alina" identifier="Alina" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
 <sprite texture="%ModDir%/textures/Alina.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
 </Opbg>
+
 </prefabs>
