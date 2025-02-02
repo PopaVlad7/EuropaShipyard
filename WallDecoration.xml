@@ -104,6 +104,10 @@
   <sprite texture="%ModDir%/textures/Wall26.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
 </Opbg>
 
+<Opbg name="Wall27" identifier="Wall27" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
+  <sprite texture="%ModDir%/textures/Wall27.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
+</Opbg>
+
 <Opbg name="Alina" identifier="Alina" description="description" allowattachitems="true" width="16" height="16" resizehorizontal="true" resizevertical="true">
 <sprite texture="%ModDir%/textures/Alina.png" sourcerect="0,0,0,0" depth="0.98" premultiplyalpha="false" origin="0.5,0.5" />
 </Opbg>
