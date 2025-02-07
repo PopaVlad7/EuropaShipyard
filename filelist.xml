@@ -7,7 +7,7 @@
   <Submarine file="%ModDir%/Project 5321 TestingAttention.sub" />
   <Submarine file="%ModDir%/The Boundless Veil.sub" />
   <Structure file="%ModDir%/WallDecoration.xml" />
-  <Submarine file="%ModDir%/Project 5321 III.sub" />
   <Submarine file="%ModDir%/Project 5321.sub" />
   <Submarine file="%ModDir%/Project 5321 II.sub" />
+  <Submarine file="%ModDir%/Project 5321 III.sub" />
 </contentpackage>
