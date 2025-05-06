@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="EuropaShipyards" modversion="1.0.83" corepackage="False" gameversion="1.7.7.0">
+<contentpackage name="EuropaShipyards" modversion="1.0.84" corepackage="False" gameversion="1.8.8.1">
   <Submarine file="%ModDir%/EuropaShipyards.sub" />
   <Item file="%ModDir%/ExtraDecorations.xml" />
   <Item file="%ModDir%/SoundItems.xml" />
@@ -11,6 +11,6 @@
   <Submarine file="%ModDir%/Project 5321 II.sub" />
   <Submarine file="%ModDir%/Abyssal Templar II.sub" />
   <Submarine file="%ModDir%/Abyssal Templar.sub" />
-  <Submarine file="%ModDir%/Abysal Templar III.sub" />
   <Submarine file="%ModDir%/Project 5321 III.sub" />
+  <Submarine file="%ModDir%/Abysal Templar III.sub" />
 </contentpackage>
